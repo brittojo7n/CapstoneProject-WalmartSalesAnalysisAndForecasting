@@ -8,7 +8,11 @@ The dataset contains weekly sales information for various Walmart outlets, along
 
 ## Dataset
 
-The dataset used for this analysis is `walmart.csv`, which contains 6435 rows and 8 columns:
+The dataset used for this analysis is `walmart.csv`, which contains 6435 rows and 8 columns. You can download the dataset from the following Kaggle link:
+
+[Download Walmart Dataset](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
+
+### Dataset Features
 
 | Feature Name        | Description                                               |
 |---------------------|-----------------------------------------------------------|
@@ -60,4 +64,3 @@ To install the required libraries, run the following command:
 
 ```bash
 pip install -r requirements.txt
-```
